@@ -1,7 +1,5 @@
 # Rubik's Cube Project
 
-Pictures
-
 Original state
 
 ![O](https://user-images.githubusercontent.com/105824823/170402701-ecd3f06c-bbcb-4794-8e7a-d660449e9809.png)
