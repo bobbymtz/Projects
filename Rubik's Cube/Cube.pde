@@ -9,17 +9,17 @@ int dimension = 3;
 Cubie[] cubes = new Cubie[dimension * dimension * dimension];
 
 // ORANGE
-final color L = color(255, 85, 37);
+final color B = color(255, 85, 37);
 // RED
-final color R = color(137, 18, 20);
+final color F = color(137, 18, 20);
 // WHITE
 final color U = color(255, 255, 255);
 // YELLOW
 final color D = color(254, 213, 47);
 // GREEN
-final color F = color(25, 155, 76);
+final color R = color(25, 155, 76);
 // BLUE
-final color B = color(13, 72, 172);
+final color L = color(13, 72, 172);
 
 void setup() 
 {
@@ -160,7 +160,7 @@ void turn(char letter)
 
 void draw() 
 {
-  background(100);
+  background(200);
   scale(10);
   
   // Initial viewing angle
