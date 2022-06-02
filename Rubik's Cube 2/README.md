@@ -1,4 +1,4 @@
-#Rubik's Cube 2
+# Rubik's Cube 2
 The moves are now animated and a scramble unscramble demo can be played
 
 Animation
